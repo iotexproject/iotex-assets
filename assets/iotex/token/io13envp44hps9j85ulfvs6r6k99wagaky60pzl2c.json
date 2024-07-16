@@ -1,0 +1,26 @@
+{
+  "address": "io13envp44hps9j85ulfvs6r6k99wagaky60pzl2c",
+  "name": "Wrapped Matic",
+  "description": "Wrapped Matic Token",
+  "logo": "https://iotexproject.iotex.io/iotex-token-metadata/master/images/io13envp44hps9j85ulfvs6r6k99wagaky60pzl2c.png",
+  "symbol": "WMATIC",
+  "decimals": 18,
+  "total_supply": "53866089699543692796805",
+  "transfer": "32318",
+  "daily_transfer": "38",
+  "daily_transfer_amount": "17047988892090528000",
+  "holders": 2935,
+  "id": 325,
+  "custom_config": {
+    "is_bridge_assets": true,
+    "circulating_supply": "53866089699543692796805"
+  },
+  "social_media": {},
+  "is_depin_token": false,
+  "is_official": true,
+  "daily_volume_usd": "1108.703499766033280352050125034705",
+  "total_liquidity_usd": "21661.62022742715870644157771778954",
+  "coingecko_id": "wmatic",
+  "markets": [],
+  "updated_at": "2024-07-02T08:30:07.878Z"
+}
