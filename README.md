@@ -47,7 +47,7 @@ We welcome contributions from the community! To add or update information in thi
 1. **Fork the repository**: Create a fork of this repository in your GitHub account.
 2. **Clone your fork**: Clone your fork to your local machine.
     ```sh
-    git clone https://github.com/<your-username>/iotex-assets.git
+    git clone https://github.com/iotexproject/iotex-assets.git
     cd iotex-assets
     ```
 3. **Create a new branch**: Create a new branch for your changes.
