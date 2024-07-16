@@ -1,0 +1,23 @@
+{
+  "address": "io123w774t8w626zjvzg7ggkml9x58u8gjyz2jety",
+  "name": "BitcoinBR",
+  "description": null,
+  "logo": null,
+  "symbol": "BTCBR",
+  "decimals": 18,
+  "total_supply": "21000000000000000000000000000",
+  "transfer": "1",
+  "daily_transfer": "0",
+  "daily_transfer_amount": null,
+  "holders": 2,
+  "id": 15619892,
+  "custom_config": {},
+  "social_media": {},
+  "is_depin_token": false,
+  "is_official": false,
+  "daily_volume_usd": null,
+  "total_liquidity_usd": null,
+  "coingecko_id": null,
+  "markets": [],
+  "updated_at": "2024-07-02T08:30:07.878Z"
+}
