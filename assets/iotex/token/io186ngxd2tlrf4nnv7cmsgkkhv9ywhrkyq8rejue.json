@@ -1,0 +1,27 @@
+{
+  "address": "io186ngxd2tlrf4nnv7cmsgkkhv9ywhrkyq8rejue",
+  "name": "IoTexShiba",
+  "description": "The first and fairest meme token on IoTex with great passive income rewards for holders.",
+  "logo": "https://iotexproject.iotex.io/iotex-token-metadata/master/images/io186ngxd2tlrf4nnv7cmsgkkhv9ywhrkyq8rejue.png",
+  "symbol": "IoShib",
+  "decimals": 9,
+  "total_supply": "100000000000000000000",
+  "transfer": "21283",
+  "daily_transfer": "0",
+  "daily_transfer_amount": null,
+  "holders": 5289,
+  "id": 356,
+  "custom_config": {
+    "meme": true,
+    "is_bridge_assets": true,
+    "circulating_supply": "100000000000000000000"
+  },
+  "social_media": {},
+  "is_depin_token": false,
+  "is_official": true,
+  "daily_volume_usd": null,
+  "total_liquidity_usd": null,
+  "coingecko_id": "iotexshiba",
+  "markets": [],
+  "updated_at": "2024-07-02T08:30:07.878Z"
+}
