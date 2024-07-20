@@ -1,0 +1,23 @@
+{
+  "address": "io10ffdhmjn0l6hv0l6ldxg4myyzynmvx4rtmcuhz",
+  "name": "Wrapped IOTX WOW Interest Bearing",
+  "description": null,
+  "logo": null,
+  "symbol": "ibWIOTX",
+  "decimals": 18,
+  "total_supply": "57625655782773343270557",
+  "transfer": "1135",
+  "daily_transfer": "0",
+  "daily_transfer_amount": null,
+  "holders": 167,
+  "id": 1954,
+  "custom_config": {},
+  "social_media": {},
+  "is_depin_token": false,
+  "is_official": false,
+  "daily_volume_usd": null,
+  "total_liquidity_usd": null,
+  "coingecko_id": null,
+  "markets": [],
+  "updated_at": "2024-07-02T08:30:07.878Z"
+}
