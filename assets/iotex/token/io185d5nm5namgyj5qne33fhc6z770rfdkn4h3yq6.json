@@ -1,0 +1,23 @@
+{
+  "address": "io185d5nm5namgyj5qne33fhc6z770rfdkn4h3yq6",
+  "name": "ForTube BUSD_b",
+  "description": null,
+  "logo": null,
+  "symbol": "fBUSD_b",
+  "decimals": 18,
+  "total_supply": "430207393486246941607",
+  "transfer": "1057",
+  "daily_transfer": "0",
+  "daily_transfer_amount": null,
+  "holders": 104,
+  "id": 1255,
+  "custom_config": {},
+  "social_media": {},
+  "is_depin_token": false,
+  "is_official": false,
+  "daily_volume_usd": null,
+  "total_liquidity_usd": null,
+  "coingecko_id": null,
+  "markets": [],
+  "updated_at": "2024-07-02T08:30:07.878Z"
+}
