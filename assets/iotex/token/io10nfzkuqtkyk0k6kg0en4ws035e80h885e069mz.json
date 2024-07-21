@@ -1,0 +1,23 @@
+{
+  "address": "io10nfzkuqtkyk0k6kg0en4ws035e80h885e069mz",
+  "name": "MIMO LPs",
+  "description": null,
+  "logo": null,
+  "symbol": "MIMO-LP",
+  "decimals": 18,
+  "total_supply": "12649202309574084",
+  "transfer": "42",
+  "daily_transfer": "0",
+  "daily_transfer_amount": null,
+  "holders": 13,
+  "id": 1967,
+  "custom_config": {},
+  "social_media": {},
+  "is_depin_token": false,
+  "is_official": false,
+  "daily_volume_usd": null,
+  "total_liquidity_usd": null,
+  "coingecko_id": null,
+  "markets": [],
+  "updated_at": "2024-07-02T08:30:07.878Z"
+}
