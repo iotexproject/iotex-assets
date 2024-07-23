@@ -1,0 +1,23 @@
+{
+  "address": "io17csv6ahw2ralfge0a9nwlg6suh699dv2zgjq7q",
+  "name": "Metro Wrapped Matic",
+  "description": null,
+  "logo": null,
+  "symbol": "mWMATIC",
+  "decimals": 18,
+  "total_supply": "3000000000000000000",
+  "transfer": "17",
+  "daily_transfer": "0",
+  "daily_transfer_amount": null,
+  "holders": 5,
+  "id": 354,
+  "custom_config": {},
+  "social_media": {},
+  "is_depin_token": false,
+  "is_official": false,
+  "daily_volume_usd": null,
+  "total_liquidity_usd": null,
+  "coingecko_id": null,
+  "markets": [],
+  "updated_at": "2024-07-02T08:30:07.878Z"
+}
