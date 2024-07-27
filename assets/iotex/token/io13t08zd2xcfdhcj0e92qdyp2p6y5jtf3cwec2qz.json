@@ -1,0 +1,23 @@
+{
+  "address": "io13t08zd2xcfdhcj0e92qdyp2p6y5jtf3cwec2qz",
+  "name": "Elk Liquidity",
+  "description": null,
+  "logo": null,
+  "symbol": "ELP",
+  "decimals": 18,
+  "total_supply": "316227766016837933",
+  "transfer": "2",
+  "daily_transfer": "0",
+  "daily_transfer_amount": null,
+  "holders": 2,
+  "id": 192860106,
+  "custom_config": {},
+  "social_media": {},
+  "is_depin_token": false,
+  "is_official": false,
+  "daily_volume_usd": null,
+  "total_liquidity_usd": null,
+  "coingecko_id": null,
+  "markets": [],
+  "updated_at": "2024-07-02T08:30:07.878Z"
+}
