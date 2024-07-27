@@ -1,0 +1,26 @@
+{
+  "address": "io1em553udth5j85hjp4z9j3xgdhq00qz7uq5egha",
+  "name": "Wifi Map",
+  "description": "WiFi Map is decentralized connectivity ecosystem mapping 10m+ WiFi hotspots globally.",
+  "logo": "https://cdn.dapp.works/users/pg-cms-111154344222244681501/token_WiFi.png",
+  "symbol": "WIFI",
+  "decimals": 18,
+  "total_supply": "665483782267965650112052",
+  "transfer": "14308",
+  "daily_transfer": "24",
+  "daily_transfer_amount": null,
+  "holders": 265,
+  "id": 185692569,
+  "custom_config": {
+    "is_bridge_assets": true,
+    "circulating_supply": "665483782267965650112052"
+  },
+  "social_media": {},
+  "is_depin_token": true,
+  "is_official": true,
+  "daily_volume_usd": "1023.664322188723264780383240077994",
+  "total_liquidity_usd": "20240.30505620612368291882178895224",
+  "coingecko_id": "wifi",
+  "markets": [],
+  "updated_at": "2024-07-02T08:30:07.878Z"
+}
