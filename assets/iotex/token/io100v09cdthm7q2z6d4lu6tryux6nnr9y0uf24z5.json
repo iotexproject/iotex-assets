@@ -1,0 +1,23 @@
+{
+  "address": "io100v09cdthm7q2z6d4lu6tryux6nnr9y0uf24z5",
+  "name": "mimo LP Token: Cros-IOTX",
+  "description": null,
+  "logo": null,
+  "symbol": "MLP:Cros-IOTX",
+  "decimals": 18,
+  "total_supply": null,
+  "transfer": "2",
+  "daily_transfer": "0",
+  "daily_transfer_amount": null,
+  "holders": 2,
+  "id": 1952,
+  "custom_config": {},
+  "social_media": {},
+  "is_depin_token": false,
+  "is_official": false,
+  "daily_volume_usd": null,
+  "total_liquidity_usd": null,
+  "coingecko_id": null,
+  "markets": [],
+  "updated_at": "2024-07-02T08:30:07.878Z"
+}
