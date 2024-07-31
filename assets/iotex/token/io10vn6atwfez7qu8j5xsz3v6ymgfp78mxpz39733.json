@@ -1,0 +1,23 @@
+{
+  "address": "io10vn6atwfez7qu8j5xsz3v6ymgfp78mxpz39733",
+  "name": "Jewish coin",
+  "description": null,
+  "logo": null,
+  "symbol": "Jwc",
+  "decimals": 17,
+  "total_supply": "23524",
+  "transfer": "1",
+  "daily_transfer": "0",
+  "daily_transfer_amount": null,
+  "holders": 2,
+  "id": 1881,
+  "custom_config": {},
+  "social_media": {},
+  "is_depin_token": false,
+  "is_official": false,
+  "daily_volume_usd": null,
+  "total_liquidity_usd": null,
+  "coingecko_id": null,
+  "markets": [],
+  "updated_at": "2024-07-02T08:30:07.878Z"
+}
