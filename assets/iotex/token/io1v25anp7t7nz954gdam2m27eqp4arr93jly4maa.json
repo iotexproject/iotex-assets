@@ -1,0 +1,27 @@
+{
+  "address": "io1v25anp7t7nz954gdam2m27eqp4arr93jly4maa",
+  "name": "Matic DAI stablecoin",
+  "description": "Matic DAI Stablecoin",
+  "logo": "https://iotexproject.iotex.io/iotex-token-metadata/master/images/io1v25anp7t7nz954gdam2m27eqp4arr93jly4maa.png",
+  "symbol": "DAI-matic",
+  "decimals": 18,
+  "total_supply": "235903438190318694765582",
+  "transfer": "114586",
+  "daily_transfer": "120",
+  "daily_transfer_amount": "263380927249332860000",
+  "holders": 1219,
+  "id": 2010,
+  "custom_config": {
+    "stable": true,
+    "is_bridge_assets": true,
+    "circulating_supply": "235903438190318694765582"
+  },
+  "social_media": {},
+  "is_depin_token": false,
+  "is_official": true,
+  "daily_volume_usd": "12768.32987181862193062330979369494",
+  "total_liquidity_usd": "82899.04760399615718418953439411179",
+  "coingecko_id": "matic-dai-stablecoin",
+  "markets": [],
+  "updated_at": "2024-07-02T08:30:07.878Z"
+}
