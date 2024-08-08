@@ -1,0 +1,26 @@
+{
+  "address": "io16ajfjch2hlm56vnhlwvs7g7aptnvx40ksyvrz5",
+  "name": "Cartesi Token",
+  "description": "Cartesi Token ",
+  "logo": "https://iotexproject.iotex.io/iotex-token-metadata/master/images/io16ajfjch2hlm56vnhlwvs7g7aptnvx40ksyvrz5.svg",
+  "symbol": "CTSI",
+  "decimals": 18,
+  "total_supply": "17000000000000000000",
+  "transfer": "9",
+  "daily_transfer": "0",
+  "daily_transfer_amount": null,
+  "holders": 5,
+  "id": 53175777,
+  "custom_config": {
+    "is_bridge_assets": true,
+    "circulating_supply": "17000000000000000000"
+  },
+  "social_media": {},
+  "is_depin_token": false,
+  "is_official": true,
+  "daily_volume_usd": "0",
+  "total_liquidity_usd": "0",
+  "coingecko_id": "cartesi",
+  "markets": [],
+  "updated_at": "2024-07-02T08:30:07.878Z"
+}
